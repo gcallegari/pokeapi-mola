@@ -2,6 +2,9 @@
 
 Este é um teste prático de React para Mola.
 
+<img src="https://media.discordapp.net/attachments/1019311069673566292/1019311172849246248/unknown.png?width=1426&height=663">
+<img src="https://media.discordapp.net/attachments/1019311069673566292/1019311234723622952/unknown.png?width=1429&height=663">
+
 ### Pré-requisitos
 
 1. Node
