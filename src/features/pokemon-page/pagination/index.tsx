@@ -20,7 +20,7 @@ export default function Pagination(props: Props) {
         <FontAwesomeIcon icon={faChevronRight} size="2x" />
       </button>
       <span data-testid="pagination-values">
-        page {props.currentPage} of {props.pageCount}
+        Página {props.currentPage} de {props.pageCount}
       </span>
       <button
         className="pagination__button-right"
